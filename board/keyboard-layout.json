@@ -1,0 +1,41 @@
+[
+  {
+    "background": {
+      "name": "Carbon fibre 1",
+      "style": "background-image: url('/bg/carbonfibre/carbon_texture1879.png');"
+    },
+    "switchMount": "cherry",
+    "switchBrand": "kailh",
+    "switchType": "PG151101D05/D43",
+    "pcb": true
+  },
+  [
+    {
+      "a": 7
+    },
+    "",
+    {
+      "x": 0.125
+    },
+    "",
+    {
+      "x": 0.125
+    },
+    ""
+  ],
+  [
+    {
+      "y": 0.125,
+      "sm": "cherry"
+    },
+    "",
+    {
+      "x": 0.125
+    },
+    "",
+    {
+      "x": 0.125
+    },
+    ""
+  ]
+]
